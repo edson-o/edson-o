@@ -1,8 +1,8 @@
 
 # Hi, I'm Edson 👋
 
-💻 Senior SDET | QA Automation Engineer  
-🚀 Playwright • API • Mobile • CI/CD  
+💻 Senior SDET | Scalable Automation & Quality Engineering  
+🚀 Web • API • Mobile • CI/CD • Cross-Browser • AI Testing
 
 ---
 
