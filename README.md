@@ -47,61 +47,13 @@
 ![Windows](https://img.shields.io/badge/Windows-blue)
 
 ---
-
 ## 📌 Featured Projects
 
-### 🎯 Playwright JS BDD Framework  
-👉 https://github.com/edson-o/playwright-js-bdd-framework  
-Playwright automation framework using JavaScript with BDD and POM design.
-
----
-
-### 🎯 Playwright TS Framework  
-👉 https://github.com/edson-o/playwright-ts-framework  
-Scalable UI automation framework using Playwright with TypeScript and POM.
-
----
-
-### 🎯 Playwright JS Core  
-👉 https://github.com/edson-o/playwright-js-core-framework  
-Lightweight UI automation framework using Playwright (JavaScript) and POM.
-
----
-
-### 🎯 WebdriverIO Mobile Framework  
-👉 https://github.com/edson-o/webdriverio-mobile-framework  
-Mobile automation framework using WebdriverIO, TypeScript, BDD, and POM.
-
----
-
-### 🎯 Selenium Java Framework  
-👉 https://github.com/edson-o/selenium-java-framework  
-UI automation framework using Selenium WebDriver with Java and POM.
-
----
-
-### 🎯 Cypress TS Framework  
-👉 https://github.com/edson-o/cypress-ts-framework  
-Modern UI automation using Cypress with TypeScript and POM.
-
----
-
-### 🎯 Django API Testing  
-👉 https://github.com/edson-o/django-api-testing  
-API testing framework using Django, Python, and Pytest.
-
----
-
-### 🎯 Selenium Python Framework  
-👉 https://github.com/edson-o/selenium-python-framework  
-UI automation using Selenium WebDriver with Python and POM.
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/edsonortizliza/
-
-  
-## 📊 GitHub Stats
-
-![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-o&show_icons=true)
+- 🔹 [playwright-js-bdd-framework](https://github.com/edson-o/playwright-js-bdd-framework) — Playwright (JS) framework with BDD and POM.
+- 🔹 [playwright-ts-framework](https://github.com/edson-o/playwright-ts-framework) — Scalable Playwright (TS) automation with POM.
+- 🔹 [playwright-js-core-framework](https://github.com/edson-o/playwright-js-core-framework) — Lightweight Playwright (JS) automation with POM.
+- 🔹 [webdriverio-mobile-framework](https://github.com/edson-o/webdriverio-mobile-framework) — Mobile automation with WebdriverIO, TS, BDD, POM.
+- 🔹 [selenium-java-framework](https://github.com/edson-o/selenium-java-framework) — Selenium WebDriver framework with Java and POM.
+- 🔹 [cypress-ts-framework](https://github.com/edson-o/cypress-ts-framework) — Cypress automation with TypeScript and POM.
+- 🔹 [django-api-testing](https://github.com/edson-o/django-api-testing) — API testing with Django, Python, Pytest.
+- 🔹 [selenium-python-framework](https://github.com/edson-o/selenium-python-framework) — Selenium WebDriver with Python and POM.
