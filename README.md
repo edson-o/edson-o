@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Edson 👋
 
-<!--
-**edson-o/edson-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior SDET | QA Automation  
+🚀 Playwright | Selenium | Appium | API Testing  
 
-Here are some ideas to get you started:
+## 🔥 What I do
+- UI Automation (Playwright)
+- API Testing (Rest Assured)
+- Mobile Testing (Appium)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Automation Framework (Playwright)
+- Mobile Testing Framework (Serenity BDD)
+
+![Playwright](https://img.shields.io/badge/Playwright-green)
+
+![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-o&show_icons=true)
+
+![Java](https://img.shields.io/badge/Java-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
