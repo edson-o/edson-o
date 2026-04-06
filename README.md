@@ -48,3 +48,6 @@
 - 🌐 [cypress-ts](https://github.com/edson-o/cypress-ts-framework) — Cypress (TS) modern automation  
 - 🐍 [django-api](https://github.com/edson-o/django-api-testing) — API testing (Django + Pytest)  
 - 🤖 [selenium-python](https://github.com/edson-o/selenium-python-framework) — Selenium (Python) with POM
+- 🔌 [RestAssured Java](https://github.com/edson-o/restassured-java-framework) — API automation using RestAssured (Java).
+- 🥋 [Karate BDD](https://github.com/edson-o/karate-bdd-framework) — API testing with Karate using BDD approach.
+- 📲 [Serenity Mobile](https://github.com/edson-o/serenity-appium-framework) — Mobile automation with Serenity BDD, Appium & BrowserStack.
