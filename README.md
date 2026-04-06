@@ -51,3 +51,4 @@
 - 🔌 [RestAssured Java](https://github.com/edson-o/restassured-java-framework) — API automation using RestAssured (Java).
 - 🥋 [Karate BDD](https://github.com/edson-o/karate-bdd-framework) — API testing with Karate using BDD approach.
 - 📲 [Serenity Mobile](https://github.com/edson-o/serenity-appium-framework) — Mobile automation with Serenity BDD, Appium & BrowserStack.
+- 📊 [JMeter Performance](https://github.com/edson-o/jmeter-performance-testing) — Performance testing with Apache JMeter.
